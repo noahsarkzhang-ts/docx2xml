@@ -1,2 +1,2 @@
 # docx2xml
-build word book.
+生成有道词典的单词本(xml格式)
